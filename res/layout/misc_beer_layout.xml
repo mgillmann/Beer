@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableLayout 
+	android:id="@+id/Misc_Beers_Layout" 
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent" 
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	
+	<TableRow>
+		<TextView
+			android:textStyle="bold"
+			android:gravity="center"
+			android:text="Misc Beers"
+		/>
+	</TableRow>
+	
+	<TableRow>
+		<TextView
+			android:layout_column="1"
+			android:text="Beer"
+			android:padding="3dip"
+		/>
+		<TextView
+			android:text="Style"
+			android:padding="3dip"
+		/>
+		<TextView
+			android:text="Comments"
+			android:padding="3dip"
+		/>
+	</TableRow>
+
+
+</TableLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Beer!</string>
+    <string name="app_name">Beer</string>
+<string-array name="beer_lists_array">
+	<item>Misc Beers</item>
+	<item>2010 Beers</item>
+	<item>2011 Beers</item>
+	<item>Liquors</item>
+</string-array>
+</resources>
